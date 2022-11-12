@@ -12,6 +12,7 @@ Don't recode everything, just <strong>fix it</strong>!
 
 
 <h1 align="center">Tasks</h1>
+
 <!-- Task 0 -->
 <h2>0. FizzBuzz</h2>
 Please take a look at this <a href="https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/0-fizzbuzz.py">source code</a>, something is wrong... 
@@ -59,8 +60,9 @@ $
 ```
 
 <code>./1-print_square.js 10</code> should print a square of size 10… <br />
-File: <a href="https://github.com/GM-Samuelstein/Fix_My_Code_Challenge/blob/main/0x00-challenge/0-fizzbuzz.py">0-fizzbuzz.py</a>
+File: <a href="https://github.com/GM-Samuelstein/Fix_My_Code_Challenge/blob/main/0x00-challenge/1-print_square.js">1-print_square.js</a>
 <!-- Task 1 -->
+
 <h2>2. Sort</h2>
 <h2>3. User password</h2>
 <h2>4. Double linked list</h2>
