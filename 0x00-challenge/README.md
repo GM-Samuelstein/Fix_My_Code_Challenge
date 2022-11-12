@@ -58,12 +58,35 @@ $ ./1-print_square.js 10
 ################
 $
 ```
-
-<code>./1-print_square.js 10</code> should print a square of size 10… <br />
+<code>./1-print_square.js 10</code> should print a square of size 10… Fix the code. <br />
 File: <a href="https://github.com/GM-Samuelstein/Fix_My_Code_Challenge/blob/main/0x00-challenge/1-print_square.js">1-print_square.js</a>
 <!-- Task 1 -->
 
+<!-- Task 2 -->
 <h2>2. Sort</h2>
-<h2>3. User password</h2>
-<h2>4. Double linked list</h2>
+Please take a look at this <a href="https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/2-sort.rb">source code</a>, something is wrong... 
+<br /><br />
 
+```
+$ ruby 2-sort.rb 12 41 2 C 9 -9 31 fun -1 32
+31
+32
+12
+41
+2
+9
+-9
+-1
+$
+```
+The output is not properly sorted. Fix the code. 
+
+<!-- Task 2 -->
+
+<!-- Task 3 -->
+<h2>3. User password</h2>
+<!-- Task 3 -->
+
+<!-- Task 4 -->
+<h2>4. Double linked list</h2>
+<!-- Task 4 -->
