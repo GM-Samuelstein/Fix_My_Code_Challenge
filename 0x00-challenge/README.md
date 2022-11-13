@@ -13,7 +13,7 @@ Don't recode everything, just <strong>fix it</strong>!
 
 <h1 align="center">Tasks</h1>
 
-<!-- Task 0 -->
+<!-- Task 0 Start -->
 <h2>0. FizzBuzz</h2>
 Please take a look at this <a href="https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/0-fizzbuzz.py">source code</a>, something is wrong... 
 <br /><br />
@@ -26,9 +26,9 @@ $
 
 ```15``` should print ```FizzBuzz``` not ```Fizz```. Fix the code. <br />
 File: <a href="https://github.com/GM-Samuelstein/Fix_My_Code_Challenge/blob/main/0x00-challenge/0-fizzbuzz.py">0-fizzbuzz.py</a>
-<!-- Task 0 -->
+<!-- Task 0 End -->
 
-<!-- Task 1 -->
+<!-- Task 1 Start -->
 <h2>1. Print square</h2>
 Please take a look at this <a href="https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/1-print_square.js">source code</a>, something is wrong... 
 <br /><br />
@@ -60,9 +60,9 @@ $
 ```
 <code>./1-print_square.js 10</code> should print a square of size 10… Fix the code. <br />
 File: <a href="https://github.com/GM-Samuelstein/Fix_My_Code_Challenge/blob/main/0x00-challenge/1-print_square.js">1-print_square.js</a>
-<!-- Task 1 -->
+<!-- Task 1 End -->
 
-<!-- Task 2 -->
+<!-- Task 2 Start -->
 <h2>2. Sort</h2>
 Please take a look at this <a href="https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/2-sort.rb">source code</a>, something is wrong... 
 <br /><br />
@@ -79,14 +79,14 @@ $ ruby 2-sort.rb 12 41 2 C 9 -9 31 fun -1 32
 -1
 $
 ```
-The output is not properly sorted. Fix the code. 
+The output is not properly sorted. Fix the code. <br />
+File: <a href="https://github.com/GM-Samuelstein/Fix_My_Code_Challenge/blob/main/0x00-challenge/2-sort.rb">2-sort.rb</a>
+<!-- Task 2 End -->
 
-<!-- Task 2 -->
-
-<!-- Task 3 -->
+<!-- Task 3 Start -->
 <h2>3. User password</h2>
-<!-- Task 3 -->
+<!-- Task 3 End -->
 
-<!-- Task 4 -->
+<!-- Task 4 Start -->
 <h2>4. Double linked list</h2>
-<!-- Task 4 -->
+<!-- Task 4 End -->
