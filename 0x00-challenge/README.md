@@ -172,4 +172,4 @@ Folder: <a href="https://github.com/GM-Samuelstein/Fix_My_Code_Challenge/tree/ma
 <!-- Task 4 End -->
 
 <h2>Author</h2>
-"You are free to use the code, but write your own goddamn README!" <br /> GM-Samuelstein
+"You are free to use the code, but write your own README!" <br /> GM-Samuelstein
