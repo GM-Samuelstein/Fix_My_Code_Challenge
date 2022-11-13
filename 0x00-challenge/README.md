@@ -15,7 +15,7 @@ Don't recode everything, just <strong>fix it</strong>!
 
 <!-- Task 0 Start -->
 <h2>0. FizzBuzz</h2>
-Please take a look at this <a href="https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/0-fizzbuzz.py">source code</a>, something is wrong... 
+Please take a look at this <a href="https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/0-fizzbuzz.py">source code</a>, which is an implementation of FizzBuzz in Python. Something is wrong... 
 <br /><br />
 
 ```
@@ -30,7 +30,7 @@ File: <a href="https://github.com/GM-Samuelstein/Fix_My_Code_Challenge/blob/main
 
 <!-- Task 1 Start -->
 <h2>1. Print square</h2>
-Please take a look at this <a href="https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/1-print_square.js">source code</a>, something is wrong... 
+Please take a look at this <a href="https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/1-print_square.js">source code</a>, which is an implementation of printing a square in Javascript. Something is wrong... 
 <br /><br />
 
 ```
@@ -64,7 +64,7 @@ File: <a href="https://github.com/GM-Samuelstein/Fix_My_Code_Challenge/blob/main
 
 <!-- Task 2 Start -->
 <h2>2. Sort</h2>
-Please take a look at this <a href="https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/2-sort.rb">source code</a>, something is wrong... 
+Please take a look at this <a href="https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/2-sort.rb">source code</a>, which is an implementation of sorting arguments in Ruby. Something is wrong... 
 <br /><br />
 
 ```
@@ -85,7 +85,7 @@ File: <a href="https://github.com/GM-Samuelstein/Fix_My_Code_Challenge/blob/main
 
 <!-- Task 3 Start -->
 <h2>3. User password</h2>
-Please take a look at this <a href="https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/3-user.py">source code</a>, something is wrong... 
+Please take a look at this <a href="https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/3-user.py">source code</a>, which is an implementation of a User class in Python. Something is wrong... 
 <br /><br />
 
 ```
@@ -95,9 +95,81 @@ is_valid_password should return True if it's the right password
 $
 ```
 The tests should not print any error… Fix the code. <br />
-File: <a href="">3-user.py</a>
+File: <a href="https://github.com/GM-Samuelstein/Fix_My_Code_Challenge/blob/main/0x00-challenge/3-user.py">3-user.py</a>
 <!-- Task 3 End -->
 
 <!-- Task 4 Start -->
 <h2>4. Double linked list</h2>
+Please take a look at this <a href="https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/tree/master/4-delete_dnodeint">source code</a>, which is an implementation of a Double linked list in C . Something is wrong... 
+
+```
+$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 main.c free_dlistint.c print_dlistint.c add_dnodeint_end.c delete_dnodeint_at_index.c -o delete_dnodeint
+$ ./delete_dnodeint 
+0
+1
+2
+3
+4
+98
+402
+1024
+-----------------
+0
+1
+2
+3
+4
+0
+402
+1024
+-----------------
+1
+2
+3
+4
+0
+402
+1024
+-----------------
+2
+3
+4
+0
+402
+1024
+-----------------
+3
+4
+0
+402
+1024
+-----------------
+4
+0
+402
+1024
+-----------------
+0
+402
+1024
+-----------------
+402
+1024
+-----------------
+-----------------
+-----------------
+-----------------
+-----------------
+-----------------
+-----------------
+-----------------
+-----------------
+-----------------
+$
+```
+This doesn't look right... Fix the code. <br />
+Folder: <a href="">4-delete_dnodeint/</a>
 <!-- Task 4 End -->
+
+<h2>Author</h2>
+"You are free to use the code, but write your own goddamn README!" <br /> GM-Samuelstein
