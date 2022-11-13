@@ -24,7 +24,7 @@ $ ./0-fizzbuzz.py 50
 $
 ```
 
-```15``` should print ```FizzBuzz``` not ```Fizz```. Fix the code. <br />
+```15``` should print ```FizzBuzz``` not ```Fizz```... Fix the code. <br />
 File: <a href="https://github.com/GM-Samuelstein/Fix_My_Code_Challenge/blob/main/0x00-challenge/0-fizzbuzz.py">0-fizzbuzz.py</a>
 <!-- Task 0 End -->
 
@@ -79,12 +79,23 @@ $ ruby 2-sort.rb 12 41 2 C 9 -9 31 fun -1 32
 -1
 $
 ```
-The output is not properly sorted. Fix the code. <br />
+The output is not properly sorted... Fix the code. <br />
 File: <a href="https://github.com/GM-Samuelstein/Fix_My_Code_Challenge/blob/main/0x00-challenge/2-sort.rb">2-sort.rb</a>
 <!-- Task 2 End -->
 
 <!-- Task 3 Start -->
 <h2>3. User password</h2>
+Please take a look at this <a href="https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge/blob/master/3-user.py">source code</a>, something is wrong... 
+<br /><br />
+
+```
+$ ./3-user.py 
+Test User
+is_valid_password should return True if it's the right password
+$
+```
+The tests should not print any error… Fix the code. <br />
+File: <a href="">3-user.py</a>
 <!-- Task 3 End -->
 
 <!-- Task 4 Start -->
