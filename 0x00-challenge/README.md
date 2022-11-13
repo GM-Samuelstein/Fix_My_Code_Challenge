@@ -168,7 +168,7 @@ $ ./delete_dnodeint
 $
 ```
 This doesn't look right... Fix the code. <br />
-Folder: <a href="">4-delete_dnodeint/</a>
+Folder: <a href="https://github.com/GM-Samuelstein/Fix_My_Code_Challenge/tree/main/0x00-challenge/4-delete_dnodeint">4-delete_dnodeint/</a>
 <!-- Task 4 End -->
 
 <h2>Author</h2>
